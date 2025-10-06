@@ -8,7 +8,7 @@ This project explores **functional connectivity metrics** applied to EEG data, a
 ---
 
 ## 📊 Data
-- EEG signals obtained from a apparently healthy partner and two signals given from the tutor of the project, from two different persons diagnosed with major depressive disorder.  
+- The dataset comprises EEG signals from three sources: an apparently healthy participant and two individuals with major depressive disorder, as provided by the project tutor.  
 - Preprocessing steps include filtering, artifact rejection, and segmentation.  
 - Connectivity computed across different frequency bands (e.g., delta, theta, alpha, beta and gamma).  
 
