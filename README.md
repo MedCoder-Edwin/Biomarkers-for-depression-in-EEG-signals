@@ -34,7 +34,7 @@ This project explores **functional connectivity metrics** applied to EEG data, a
 - Example visualization:  
 <img width="747" height="590" alt="image" src="https://github.com/user-attachments/assets/1eda52c2-1318-4150-8e8d-6d2456c2d3d5" />
 
-  For more details on the state of the art, methodology, results, and conclusions, please see the [Full Manuscript](Biomarcadores en depresión con señales de electroencefalografía Artículo de revisión.pdf).
+  
 
 ---
 
@@ -43,3 +43,6 @@ This project explores **functional connectivity metrics** applied to EEG data, a
 - Apply graph-theoretical measures (clustering coefficient, small-worldness, modularity).  
 - Explore machine learning approaches for classification based on connectivity features.  
 - Extend to multimodal data integration (EEG + clinical scores).  
+
+## 📑 Supplementary Material
+For more details on the state of the art, methodology, results, and conclusions, please see the [full Manuscript](https://github.com/MedCoder-Edwin/Biomarkers-for-depression-in-EEG-signals/blob/main/Biomarcadores%20en%20depresi%C3%B3n%20con%20se%C3%B1ales%20de%20electroencefalograf%C3%ADa%20Art%C3%ADculo%20de%20revisi%C3%B3n.pdf)
