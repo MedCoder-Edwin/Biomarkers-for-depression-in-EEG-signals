@@ -34,6 +34,8 @@ This project explores **functional connectivity metrics** applied to EEG data, a
 - Example visualization:  
 <img width="747" height="590" alt="image" src="https://github.com/user-attachments/assets/1eda52c2-1318-4150-8e8d-6d2456c2d3d5" />
 
+  For more details on the state of the art, methodology, results, and conclusions, please see the [Full Manuscript](Biomarcadores en depresión con señales de electroencefalografía Artículo de revisión.pdf).
+
 ---
 
 ## 🚀 Future Work
