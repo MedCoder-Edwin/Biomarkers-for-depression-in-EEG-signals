@@ -44,5 +44,7 @@ This project explores **functional connectivity metrics** applied to EEG data, a
 - Explore machine learning approaches for classification based on connectivity features.  
 - Extend to multimodal data integration (EEG + clinical scores).  
 
+---
+
 ## 📑 Supplementary Material
 For more details on the state of the art, methodology, results, and conclusions, please see the [full Manuscript](https://github.com/MedCoder-Edwin/Biomarkers-for-depression-in-EEG-signals/blob/main/Biomarcadores%20en%20depresi%C3%B3n%20con%20se%C3%B1ales%20de%20electroencefalograf%C3%ADa%20Art%C3%ADculo%20de%20revisi%C3%B3n.pdf)
