@@ -32,6 +32,7 @@ This project explores **functional connectivity metrics** applied to EEG data, a
 - Generated connectivity matrices across multiple frequency bands.  
 - Preliminary findings suggest differences in connectivity patterns that may relate to depressive states.  
 - Example visualization:  
+<img width="747" height="590" alt="image" src="https://github.com/user-attachments/assets/1eda52c2-1318-4150-8e8d-6d2456c2d3d5" />
 
 ![Example connectivity matrix](docs/example_connectivity.png)
 
