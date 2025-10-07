@@ -25,6 +25,7 @@ This project explores **functional connectivity metrics** applied to EEG data, a
   
 3. **Visualization**  
    - Connectivity matrices (per frequency band)    
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/35740178-57c2-442b-811c-98f25192ca48" />
 
 ---
 
